@@ -1,6 +1,6 @@
 # Realtime Autonomous Traffic Signal Switching system 
 
-Objective: Traffic signal switching happens to be one the weakest link in the entire traffic flow system. The current traffic switching system relies on preset timing or a manual controller system based mechanism. We planned to optimise the traffic light switching system using Reinforcement learning in a non-intrusive method.
+Traffic signal switching is one of the weakest link in the entire traffic flow system. The current traffic switching system relies on preset timing or a manual controller system based mechanism. We planned to optimise the traffic light switching system using Reinforcement learning in a non-intrusive method.
 
 We thought of adapting the autonomous helicopter training mechanism to model the Traffic Switching system.
 
