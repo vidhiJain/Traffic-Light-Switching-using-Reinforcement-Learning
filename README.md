@@ -30,7 +30,3 @@ A suitable extension was to have large negative weights if important vehicles (a
 
 * Values in brackets next to the roads are traffic intensity values fetched via HERE-MAPS api.
 * An ambulance is added(location randomly generated - RED/WHITE - MG Road to Kasturba Road) to indicate autonomous Traffic signals switching to provide congestion free path to important vehicles
-
-## Demo Video
-
-<a href="https://youtu.be/iK1LfPHcpXc" title="Title"> Realtime Autonomous Traffic Signal Switching system - Demo </a></p>
